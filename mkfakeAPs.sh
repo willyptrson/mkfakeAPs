@@ -1,6 +1,6 @@
 #!/bin/bash
 if [ $1 == "-h" ]; then
-   echo -e "Git:willy-peterson\n\n  usage: nmkfakeAPs <option> <[1~10]> <param>\n\n  Options:\n  -i <count>                 :input manual names\n  -r <count> <name>          :repeat the several names"
+   echo -e "Git:petersonmqt\n\n  usage: nmkfakeAPs <option> <[1~10]> <param>\n\n  Options:\n  -i <count>                 :input manual names\n  -r <count> <name>          :repeat the several names"
    exit 0
 fi
 
