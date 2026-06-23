@@ -16,4 +16,4 @@
 
 I used wlo1 on the network interface
 
-`$ sudo mdk3 b -v listfakeAPs.txt`
+`$ sudo mdk3 wlo1mon b -v listfakeAPs.txt`
